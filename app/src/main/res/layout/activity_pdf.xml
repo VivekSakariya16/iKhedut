@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".pdfActivity">
+
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="150dp">
+
+        <TextView
+            android:id="@+id/dateB"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="50dp"
+            android:fontFamily="@font/amaranth"
+            android:gravity="center"
+            android:text="Date : 00-00-0000"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/select_the_item"
+            android:layout_marginTop="18dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginEnd="50dp"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:fontFamily="@font/amaranth"
+            android:textColor="@color/black" />
+
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginEnd="50dp"/>
+        <Button
+            android:id="@+id/getDATA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="18dp"
+            android:layout_marginEnd="30dp"
+            android:background="@drawable/button_background"
+            android:text="@string/show_data"
+            android:textColor="@color/white"
+            android:fontFamily="@font/coda"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/getPDF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="@font/coda"
+            android:text="@string/get_pdf"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="400dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="match_parent">
+
+            <ScrollView
+                android:layout_width="400dp"
+                android:layout_height="360dp"
+                android:background="#A6A4A4"
+                android:touchscreenBlocksFocus="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TextView
+                    android:id="@+id/showData"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="@string/abc"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+            </ScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>

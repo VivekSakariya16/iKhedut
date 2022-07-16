@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/abc"
+        android:icon="@drawable/ic_baseline_backup_24"
+        android:title="Backup"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/def"
+        android:icon="@drawable/ic_baseline_restore_24"
+        android:title="Restore"
+        android:orderInCategory="2"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/en"
+        android:title="English"
+        android:orderInCategory="3"/>
+
+    <item android:id="@+id/guj"
+        android:title="ગુજરાતી"
+        android:orderInCategory="4"/>
+
+</menu>

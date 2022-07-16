@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">iKhedut</string>
+    <string name="backup">Backup Successful.</string>
+    <string name="exit">Are you sure you want to exit app?</string>
+    <string name="e">Exit</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="price">Please enter the value of Price</string>
+    <string name="all">All</string>
+    <string name="biyo">Biyaran</string>
+    <string name="dava">Dava</string>
+    <string name="k">Khatar</string>
+    <string name="d">Diesel / Petrol</string>
+    <string name="mu">Majur Upad</string>
+    <string name="m">Majuri</string>
+    <string name="o">Ojar</string>
+    <string name="l">Light bill</string>
+    <string name="other">Other</string>
+    <string name="date">Date :\t</string>
+    <string name="save">Data saved</string>
+    <string name="ak">All Kharch:\n\n</string>
+    <string name="bk">Biyaran Kharch:\n\n</string>
+    <string name="dk">Dava Kharch:\n\n</string>
+    <string name="kk">Khatar Kharch:\n\n</string>
+    <string name="dpk">Diesel / Petrol Kharch:\n\n</string>
+    <string name="muk">Majur Upad Kharch:\n\n</string>
+    <string name="mk">Majuri Kharch:\n\n</string>
+    <string name="ok">Ojar Kharch:\n\n</string>
+    <string name="lk">LightBill Kharch:\n\n</string>
+    <string name="otk">Other Kharch:\n\n</string>
+    <string name="sr">Sr. No.</string>
+    <string name="da">Date</string>
+    <string name="in">Item Name</string>
+    <string name="note">Note</string>
+    <string name="pri">Price</string>
+    <string name="br">Backup Restored</string>
+    <string name="daily_data">Daily DATA</string>
+    <string name="view_pdf">View PDF</string>
+    <string name="select_the_item">Select the Item</string>
+    <string name="notex">Note:</string>
+    <string name="name_quantity">Name / Quantity</string>
+    <string name="pricex">Price:</string>
+    <string name="xsave">SAVE</string>
+    <string name="show_data">Show Data</string>
+    <string name="get_pdf">get PDF</string>
+    <string name="abc">\t-----Your data will be shown here. -----</string>
+</resources>

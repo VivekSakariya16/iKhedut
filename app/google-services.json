@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660977278968",
+    "project_id": "ikhedut-aa513",
+    "storage_bucket": "ikhedut-aa513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660977278968:android:f90544c5d816182665c00d",
+        "android_client_info": {
+          "package_name": "com.example.ikhedut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660977278968-sd2nl1qbbgaod9h7h387t94f3stc3fhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikhedut",
+            "certificate_hash": "09f6392e7ab5a3d869ee211018a523d78e1ccc07"
+          }
+        },
+        {
+          "client_id": "660977278968-f41bv96jd55fpkokulrlg944nso066ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1Ks3TL1Z0OYWY_bbdoA8qhuSHjPwR9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660977278968-f41bv96jd55fpkokulrlg944nso066ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

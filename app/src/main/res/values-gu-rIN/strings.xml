@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup">બેકઅપ સફળ.</string>
+    <string name="exit">શું તમે ખરેખર એપ્લિકેશનમાંથી બહાર નીકળવા માંગો છો?</string>
+    <string name="e">બહાર નીકળવુ</string>
+    <string name="no">ના</string>
+    <string name="yes">હા</string>
+    <string name="price">કૃપા કરીને કિંમતનું દાખલ કરો</string>
+    <string name="all">બધુ</string>
+    <string name="biyo">બિયારણ</string>
+    <string name="dava">દવા</string>
+    <string name="k">ખાતર</string>
+    <string name="d">ડીઝલ / પેટ્રોલ</string>
+    <string name="mu">મજુર ઉપાડ</string>
+    <string name="m">મજુરી</string>
+    <string name="o">ઓજાર</string>
+    <string name="l">લાઇટબિલ</string>
+    <string name="other">અન્ય</string>
+    <string name="date">તારીખ :\t</string>
+    <string name="save">ડેટા સાચવ્યો</string>
+    <string name="ak">બધો ખર્ચ:\n\n</string>
+    <string name="bk">બિયારણ ખર્ચ:\n\n</string>
+    <string name="dk">દવા ખર્ચ:\n\n</string>
+    <string name="kk">ખાતર ખર્ચ:\n\n</string>
+    <string name="dpk">ડીઝલ / પેટ્રોલ ખર્ચ:\n\n</string>
+    <string name="muk">મજુર ઉપાડ ખર્ચ:\n\n</string>
+    <string name="mk">મજુરી ખર્ચ:\n\n</string>
+    <string name="ok">ઓજાર ખર્ચ:\n\n</string>
+    <string name="lk">લાઇટબિલ ખર્ચ:\n\n</string>
+    <string name="otk">અન્ય ખર્ચ:\n\n</string>
+    <string name="sr">ક્રમ નં.</string>
+    <string name="da">તારીખ</string>
+    <string name="in">વસ્તુનુ નામ</string>
+    <string name="note">નોંધ</string>
+    <string name="pri">કિંમત</string>
+    <string name="br">બેકઅપ પુનઃસ્થાપિત.</string>
+    <string name="daily_data">દરરોજનો ડેટા</string>
+    <string name="view_pdf">PDF જુઓ</string>
+    <string name="select_the_item">વિકલ્પ પસંદ કરો</string>
+    <string name="notex">નોંધ:</string>
+    <string name="name_quantity">નામ / જથ્થો</string>
+    <string name="pricex">કિંમત :</string>
+    <string name="xsave">સાચવો</string>
+    <string name="show_data">ડેટા જુઓ</string>
+    <string name="get_pdf">PDF મેળવો</string>
+    <string name="abc">\t----- તમારો ડેટા અહીં બતાવવામાં આવશે. -----</string>
+</resources>
